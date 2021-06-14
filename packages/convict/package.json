@@ -17,14 +17,14 @@
     "yaml",
     "toml"
   ],
-  "version": "6.2.0",
+  "version": "0.1.0",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/mozilla/node-convict",
+  "homepage": "https://github.com/avxhi93/node-convict",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mozilla/node-convict/tree/master/packages/convict"
+    "url": "https://github.com/avxhi93/node-convict/tree/master/packages/convict"
   },
-  "bugs": "https://github.com/mozilla/node-convict/issues",
+  "bugs": "https://github.com/avxhi93/node-convict/issues",
   "engines": {
     "node": ">=6"
   },
